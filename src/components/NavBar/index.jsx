@@ -10,7 +10,7 @@ import {
 
 const NavBar = () => (
   <Navbar color="light" light expand="md">
-    <NavbarBrand href="/">AppLike Frontend Test</NavbarBrand>
+    <NavbarBrand href="/">Statistical Charts</NavbarBrand>
     <Collapse isOpen navbar>
       <Nav className="mr-auto" navbar>
         <NavItem>
